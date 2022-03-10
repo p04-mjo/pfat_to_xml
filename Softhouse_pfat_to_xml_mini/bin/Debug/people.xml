@@ -1,0 +1,96 @@
+<people>
+<person>
+	<firstname>Anna</firstname>
+	<lastname>Johnsson</lastname>
+</person>
+<person>
+	<firstname>Elof</firstname>
+	<lastname>Sundin</lastname>
+	<address>
+		<street>S:t Johannesgatan 16</street>
+		<city>Uppsala</city>
+		<zip>75330</zip>
+	</address>
+	<phone>
+		<cell>073-101801</cell>
+		<landline>018-101801</landline>
+	</phone>
+	<family>
+		<name>Hans</name>
+		<dob>1967</dob>
+		<address>
+			<street>Frodegatan 13B</street>
+			<city>Uppsala</city>
+			<zip>75325</zip>
+		</address>
+	</family>
+	<family>
+		<name>Anna</name>
+		<dob>1969</dob>
+		<phone>
+			<cell>073-101802</cell>
+			<landline>08-101802</landline>
+		</phone>
+	</family>
+</person>
+<person>
+	<firstname>Boris</firstname>
+	<lastname>Johnson</lastname>
+	<address>
+		<street>10 Downing Street</street>
+		<city>London</city>
+	</address>
+</person>
+<person>
+	<firstname>John</firstname>
+	<lastname>Smith</lastname>
+	<address>
+		<street>135 Green Street</street>
+		<city>Baltimore</city>
+		<zip>ML-21210</zip>
+	</address>
+	<phone>
+		<cell>(410)-123-1234</cell>
+		<landline>(410)-123-4321</landline>
+	</phone>
+	<family>
+		<name>Maria</name>
+		<dob>1952</dob>
+		<address>
+			<street>135 Green Street</street>
+			<city>Baltimore</city>
+			<zip>ML-21210</zip>
+		</address>
+		<phone>
+			<cell>(410)-123-1234</cell>
+			<landline>(410)-123-4322</landline>
+		</phone>
+	</family>
+	<family>
+		<name>Patricia</name>
+		<dob>2001</dob>
+		<address>
+			<street>135 Green Street</street>
+			<city>Baltimore</city>
+			<zip>ML-21210</zip>
+		</address>
+		<phone>
+			<cell>(410)-123-1234</cell>
+			<landline>(410)-123-4323</landline>
+		</phone>
+	</family>
+	<family>
+		<name>Mike</name>
+		<dob>2006</dob>
+		<address>
+			<street>135 Green Street</street>
+			<city>Baltimore</city>
+			<zip>ML-21210</zip>
+		</address>
+		<phone>
+			<cell>(410)-123-1234</cell>
+			<landline>(410)-123-4324</landline>
+		</phone>
+	</family>
+</person>
+</people>

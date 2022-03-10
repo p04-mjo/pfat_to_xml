@@ -1,0 +1,6 @@
+C:\Spegel\softhouse_demo\console_app\Softhouse_pfat_to_xml_mini\Softhouse_pfat_to_xml_mini\bin\Debug\Softhouse_pfat_to_xml_mini.exe.config
+C:\Spegel\softhouse_demo\console_app\Softhouse_pfat_to_xml_mini\Softhouse_pfat_to_xml_mini\bin\Debug\Softhouse_pfat_to_xml_mini.exe
+C:\Spegel\softhouse_demo\console_app\Softhouse_pfat_to_xml_mini\Softhouse_pfat_to_xml_mini\bin\Debug\Softhouse_pfat_to_xml_mini.pdb
+C:\Spegel\softhouse_demo\console_app\Softhouse_pfat_to_xml_mini\Softhouse_pfat_to_xml_mini\obj\Debug\Softhouse_pfat_to_xml_mini.csprojResolveAssemblyReference.cache
+C:\Spegel\softhouse_demo\console_app\Softhouse_pfat_to_xml_mini\Softhouse_pfat_to_xml_mini\obj\Debug\Softhouse_pfat_to_xml_mini.exe
+C:\Spegel\softhouse_demo\console_app\Softhouse_pfat_to_xml_mini\Softhouse_pfat_to_xml_mini\obj\Debug\Softhouse_pfat_to_xml_mini.pdb
