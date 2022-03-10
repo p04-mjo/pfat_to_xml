@@ -59,8 +59,8 @@ Ger XML som:
 ## Angrepp
 ### Analys och teknival
 - Stoppade in xml-koden i en xsd-generator online, se fil 'Schema.xsd' för att säkerställa att jag inte missat något.
-- <address> kan det finnas 0..1 av och de kan vara inkompletta, förutsätter i så fall att det är den sista som saknas, alltså att om bara ett attribut finns så är det <street>.
-- <phone> kan det finnas 0..1 av, dito ovanstående att de kan vara inkompletta, förutsätter i så fall att det är den första i listan som finns om det bara finns en.
+- [address] kan det finnas 0..1 av och de kan vara inkompletta, förutsätter i så fall att det är den sista som saknas, alltså att om bara ett attribut finns så är det [street].
+- [phone] kan det finnas 0..1 av, dito ovanstående att de kan vara inkompletta, förutsätter i så fall att det är den första i listan som finns om det bara finns en.
 - Jag tänker mig relativt små datamängder, så små att all data i indata får plats att bearbetas i datorns internminne.
 - Jag tänker mig att eftersom allt får plats i internminnet i mitt tankeexperiment så gör jag så att jag bygger en lista av person-objekt och när den är klar så kan jag skriva ut xml-koden för hela alltet från metoder i dessa objekt. 
 - En tanke med att ha en lista av objekt som mellanled är att man i en verklig situation då skulle kunna presentera data, flagga upp tveksamheter för operatören i samband med konverteringen. 
